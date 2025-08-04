@@ -1,4 +1,4 @@
-// Stacks
+// Stacks  (Last in, First out)
 
 // functions: push, pop, peek, length
 
